@@ -19,6 +19,10 @@ This repository contains all the problems I have solved so far — and I will co
 - Greedy
 - Brute Force
 - Number Theory
+- Math
+- Strings
+- Sortings
+- Constructive Algorithm
 -...and more to come!!
 
 
